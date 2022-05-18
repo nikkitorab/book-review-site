@@ -1,0 +1,36 @@
+
+h1{
+    border:0vmax;
+    background-color:rgb(205, 72, 239);
+    font-family:"Comic Sans MS", "Comic Sans", cursive;
+    font-size:xx-large;
+}
+header{
+    border:0vmax;
+    background-color: rgb(0, 0, 255);
+    color:rgb(0, 0, 255);
+}
+
+body{
+    background-color:rgb(249, 192, 251);
+}
+
+footer{
+    border:darkmagenta;
+    background-color: violet;
+}
+
+figure {
+    font-style: italic;
+}
+.alltext {
+    font-family:"Comic Sans MS", "Comic Sans", cursive;
+    font-size:large;
+}
+
+nav:hover {
+    background-color: chartreuse;
+}
+
+
+
